@@ -1,0 +1,3 @@
+Nombre del paciente: ericFecha de cita: 29/10/2023 14:23:00
+Razon de consulta: 88
+Costo de consulta: $88

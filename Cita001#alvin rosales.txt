@@ -1,0 +1,1 @@
+Nombre del paciente: alvin rosalesFecha de cita: 23/10/2023 00:00:00Razon de consulta: dolor de cabezaCosto de consulta: $40

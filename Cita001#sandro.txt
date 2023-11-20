@@ -1,0 +1,3 @@
+Nombre del paciente: sandroFecha de cita: 23/10/2023 13:34:00
+Razon de consulta: dolor de cabeza
+Costo de consulta: $30

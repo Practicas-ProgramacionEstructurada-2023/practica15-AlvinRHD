@@ -1,0 +1,1 @@
+Nombre del paciente: eric reyesFecha de cita: 23/9/2023 00:00:00Razon de consulta: dolor de huesosCosto de consulta: $70
